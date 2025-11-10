@@ -1,11 +1,6 @@
 # Microsoft SQL Server 2019 Developer Edition  
 **Installation Guide – Step-by-Step (Windows)**
 
-> **Official Guide**: [Boston University SQL Server Installation Guide (PDF)](SQL-Server-2019-Installation-Guide.pdf)  
-> **Updated**: January 18, 2019  
-> **For Courses**: CS 669, CS 779  
-> **Free for Students & Developers** | **Not for Production**
-
 ---
 
 ## Step 1: Download SQL Server 2019 Developer
